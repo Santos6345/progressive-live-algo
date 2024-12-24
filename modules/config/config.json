@@ -1,0 +1,14 @@
+{
+  "api_url": "https://www.sofascore.com/",
+  "url_incidents": "https://api.sofascore.com/api/v1/event/9576088/incidents",
+  "mongo_host": "mongodb://localhost",
+  "mongo_port": "27017",
+  "mongo_db": "football-info",
+  "mongo_table_matches": "matches",
+  "mongo_table_picks": "picks",
+  "header": {
+    "x-rapidapi-host": "soccer-football-info.p.rapidapi.com",
+    "x-rapidapi-key": "8fd0c49926msh9582fd3cfa5e238p107992jsn1147cdee1dcc"
+  }
+}
+
